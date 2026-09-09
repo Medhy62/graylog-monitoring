@@ -1,21 +1,41 @@
-MIT License
+Copyright (c) 2026 Medhy Marouf
 
-Copyright (c) 2026 Marouf Medhy
+All rights reserved.
 
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
+This repository is provided for educational, demonstration, and personal portfolio purposes.
 
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
+The source code, configurations, documentation, examples, diagrams, and technical content contained in this repository may be viewed and used for personal learning purposes.
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
+You may not, without prior written permission from the author:
+
+- redistribute this repository or substantial portions of its content;
+- republish the content as your own work;
+- use the content for commercial purposes;
+- resell or integrate the content into a commercial product or service;
+- remove or modify references to the original author;
+- claim authorship of the configurations, documentation, or examples provided.
+
+You may:
+
+- review the content;
+- study the configurations and examples;
+- adapt concepts for personal learning environments;
+- reference this repository with appropriate attribution.
+
+This repository may contain generic examples inspired by professional experience.
+
+No confidential, proprietary, production, or company-specific information is intentionally included.
+
+All IP addresses, hostnames, usernames, network names, VLAN identifiers, configurations, and infrastructure examples are fictitious, anonymized, or modified for demonstration purposes.
+
+The content is provided "as is", without warranty of any kind, express or implied.
+
+The author shall not be held liable for any damage, data loss, security incident, service interruption, or other consequence resulting from the use of the information, scripts, configurations, or examples contained in this repository.
+
+These examples are not intended to be deployed directly into a production environment without prior review, testing, and adaptation.
+
+Author:
+Medhy Marouf
+
+Purpose:
+Personal IT / Infrastructure / Systems / Networks / Cybersecurity Portfolio
